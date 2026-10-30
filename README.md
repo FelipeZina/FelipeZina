@@ -1,59 +1,65 @@
-<h1 align="center">Hi 👋, I'm Felipe Siqueira Zina Correia</h1>
-<h3 align="center">💻 Computer Science Student | 🤖 AI & Software Developer | 🇧🇷 UNIFESP</h3>
-
----
-
-### 🚀 About Me
-
-- 🎓 I'm currently pursuing a **Bachelor's degree in Computer Science** at the **Federal University of São Paulo (UNIFESP)**
-- 🤖 Passionate about **Artificial Intelligence**, including:
-  - Machine Learning (ML.NET, Scikit-learn)
-  - Deep Learning (YOLO, CNNs, Transfer Learning)
-  - Computer Vision (image classification, object detection)
-  - Natural Language Processing (text classification, chatbot integration)
-- 🛠️ Also experienced in software development using **C#, Python, Node.js**, and working with **SQL databases**
-- 🧠 Interested in **operating systems**, **automation**, and **cloud computing**
-
----
-
-### 🧰 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0f3d2e,100:42b883&text=Felipe%20%E2%80%94%20Zina&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20%C2%B7%20AI%20Agents%20%C2%B7%20Computer%20Vision%20%C2%B7%20Embedded%20Systems&descAlignY=58&descSize=16&animation=fadeIn" />
 </p>
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipe-siqueira-zina-correia-6b9000267/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/6278" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=42b883" /></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=42b883" /></a>
 </p>
 
----
+<br>
 
-### 📊 GitHub Stats
+<!-- ============ ABOUT ============ -->
+## Hi, I'm Felipe
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipezina&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=felipezina&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-  </tr>
-</table>
+I currently build **AI-powered automations** at **[@buserbrasil](https://github.com/buserbrasil)**,
+turning manual processes into intelligent workflows with agents, integrations and data pipelines
+running in production.
+
+I'm also studying **Computer Science at UNIFESP**, and I enjoy
+building across different fields: web applications, AI agents, computer vision and hardware projects.
+
+<br>
+
+<!-- ============ STACK ============ -->
+## Tech stack
+
+| Area | Technologies |
+|---|---|
+| **Web development** | <img src="https://skillicons.dev/icons?i=django,py,vue,ts,astro,tailwind&theme=dark" height="36" /> |
+| **AI agents & automation** | <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=42b883" /> <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=42b883" /> |
+| **Computer vision** | <img src="https://skillicons.dev/icons?i=opencv,py&theme=dark" height="36" /> |
+| **Embedded systems** | <img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" height="36" /> |
+| **Data** | <img src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=42b883" /> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="28" /> |
+| **Infra & tooling** | <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="36" /> |
+
+<br>
+
+<!-- ============ PROJECTS ============ -->
+## Featured projects
+
+| Area | Project | What it does | Stack |
+|---|---|---|---|
+| Web | **[REPO_WEB](https://github.com/SEU_USUARIO/REPO_WEB)** | One sentence about the problem it solves | `Django` `Vue` `TS` |
+| AI agents | **[REPO_AGENT](https://github.com/SEU_USUARIO/REPO_AGENT)** | One sentence about the problem it solves | `LangChain` `Python` |
+| Computer vision | **[REPO_VISION](https://github.com/SEU_USUARIO/REPO_VISION)** | One sentence about the problem it solves | `OpenCV` `Python` |
+| Embedded | **[REPO_ARDUINO](https://github.com/SEU_USUARIO/REPO_ARDUINO)** | One sentence about the problem it solves | `Arduino` `C++` |
+| Infra | **[REPO_DOCKER](https://github.com/SEU_USUARIO/REPO_DOCKER)** | One sentence about the problem it solves | `Docker` `Django` |
+
+<br>
+
+<!-- ============ STATS ============ -->
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=42b883&text_color=c9d1d9&icon_color=42b883&border_color=1f6f50" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&bg_color=0d1117&title_color=42b883&text_color=c9d1d9&border_color=1f6f50" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0d1117&ring=42b883&fire=42b883&currStreakLabel=42b883&sideLabels=c9d1d9&dates=8b949e&stroke=1f6f50&border=1f6f50" />
+</p>
+
+<!-- ============ FOOTER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:42b883,50:0f3d2e,100:0d1117" />

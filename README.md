@@ -41,25 +41,14 @@ building across different fields: web applications, AI agents, computer vision a
 
 | Area | Project | What it does | Stack |
 |---|---|---|---|
-| Web | **[REPO_WEB](https://github.com/SEU_USUARIO/REPO_WEB)** | One sentence about the problem it solves | `Django` `Vue` `TS` |
-| AI agents | **[REPO_AGENT](https://github.com/SEU_USUARIO/REPO_AGENT)** | One sentence about the problem it solves | `LangChain` `Python` |
-| Computer vision | **[REPO_VISION](https://github.com/SEU_USUARIO/REPO_VISION)** | One sentence about the problem it solves | `OpenCV` `Python` |
-| Embedded | **[REPO_ARDUINO](https://github.com/SEU_USUARIO/REPO_ARDUINO)** | One sentence about the problem it solves | `Arduino` `C++` |
-| Infra | **[REPO_DOCKER](https://github.com/SEU_USUARIO/REPO_DOCKER)** | One sentence about the problem it solves | `Docker` `Django` |
+| Web | **[REPO_WEB](https://github.com/FelipeZina/REPO_WEB)** | One sentence about the problem it solves | `Django` `Vue` `TS` |
+| AI agents | **[REPO_AGENT](https://github.com/FelipeZina/REPO_AGENT)** | One sentence about the problem it solves | `LangChain` `Python` |
+| Computer vision | **[REPO_VISION](https://github.com/FelipeZina/REPO_VISION)** | One sentence about the problem it solves | `OpenCV` `Python` |
+| Embedded | **[REPO_ARDUINO](https://github.com/FelipeZina/REPO_ARDUINO)** | One sentence about the problem it solves | `Arduino` `C++` |
+| Infra | **[REPO_DOCKER](https://github.com/FelipeZina/REPO_DOCKER)** | One sentence about the problem it solves | `Docker` `Django` |
 
 <br>
 
-<!-- ============ STATS ============ -->
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=42b883&text_color=c9d1d9&icon_color=42b883&border_color=1f6f50" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&bg_color=0d1117&title_color=42b883&text_color=c9d1d9&border_color=1f6f50" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0d1117&ring=42b883&fire=42b883&currStreakLabel=42b883&sideLabels=c9d1d9&dates=8b949e&stroke=1f6f50&border=1f6f50" />
-</p>
 
 <!-- ============ FOOTER ============ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:42b883,50:0f3d2e,100:0d1117" />

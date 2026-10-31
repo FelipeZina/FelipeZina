@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=42b883" align="center" />
   </a>
 </p>
+
 <!-- ============ ABOUT ============ -->
 ## Hi, I'm Felipe
 
@@ -17,7 +18,6 @@ running in production.
 
 I'm also studying **Computer Science at UNIFESP**, and I enjoy
 building across different fields: web applications, AI agents, computer vision and hardware projects.
-
 <br>
 
 <!-- ============ STACK ============ -->

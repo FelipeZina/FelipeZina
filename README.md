@@ -1,15 +1,13 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0f3d2e,100:42b883&text=Felipe%20%E2%80%94%20Zina&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20%C2%B7%20AI%20Agents%20%C2%B7%20Computer%20Vision%20%C2%B7%20Embedded%20Systems&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d1117,50:0f3d2e,100:42b883&text=Felipe%20Zina&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Software%20%C2%B7%20AI%20Agents%20%C2%B7%20Computer%20Vision%20%C2%B7%20Embedded%20Systems&descAlignY=62&descSize=16" />
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=42b883" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=42b883" /></a>
+  <a href="https://www.linkedin.com/in/felipe-siqueira-zina-correia-6b9000267/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" align="center" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=42b883" align="center" />
+  </a>
 </p>
-
-<br>
-
 <!-- ============ ABOUT ============ -->
 ## Hi, I'm Felipe
 
@@ -27,13 +25,12 @@ building across different fields: web applications, AI agents, computer vision a
 
 | Area | Technologies |
 |---|---|
-| **Web development** | <img src="https://skillicons.dev/icons?i=django,py,vue,ts,astro,tailwind&theme=dark" height="36" /> |
-| **AI agents & automation** | <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=42b883" /> <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=42b883" /> |
+| **Web development** | <img src="https://skillicons.dev/icons?i=django,py,vue,ts,nextjs,nestjs,astro,tailwind&theme=dark" height="36" /> |
+| **AI agents & automation** | <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,n8n&theme=dark" height="36" /> |
 | **Computer vision** | <img src="https://skillicons.dev/icons?i=opencv,py&theme=dark" height="36" /> |
 | **Embedded systems** | <img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" height="36" /> |
-| **Data** | <img src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=42b883" /> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="28" /> |
+| **Data** | <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks&theme=dark" height="36" /> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="36" /> |
 | **Infra & tooling** | <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="36" /> |
-
 <br>
 
 <!-- ============ PROJECTS ============ -->
@@ -41,14 +38,8 @@ building across different fields: web applications, AI agents, computer vision a
 
 | Area | Project | What it does | Stack |
 |---|---|---|---|
-| Web | **[REPO_WEB](https://github.com/FelipeZina/REPO_WEB)** | One sentence about the problem it solves | `Django` `Vue` `TS` |
-| AI agents | **[REPO_AGENT](https://github.com/FelipeZina/REPO_AGENT)** | One sentence about the problem it solves | `LangChain` `Python` |
-| Computer vision | **[REPO_VISION](https://github.com/FelipeZina/REPO_VISION)** | One sentence about the problem it solves | `OpenCV` `Python` |
-| Embedded | **[REPO_ARDUINO](https://github.com/FelipeZina/REPO_ARDUINO)** | One sentence about the problem it solves | `Arduino` `C++` |
-| Infra | **[REPO_DOCKER](https://github.com/FelipeZina/REPO_DOCKER)** | One sentence about the problem it solves | `Docker` `Django` |
+| Web | <img src="https://github.com/Hubee-Unifesp.png" width="18" align="center" /> **[Hubee](https://github.com/Hubee-Unifesp)** | End-to-end event management platform for university student groups, from planning and vendor management to break-even analysis and ticket sales | `Next.js` `TypeScript` `NestJS` `PostgreSQL` |
+| Computer vision | **[alignment_recognition](https://github.com/FelipeZina/alignment_recognition)** | Keypoint detection model that checks, in real time, whether the arm-to-body angle of Mercedes-Benz automotive parts is within engineering tolerance | `YOLOv8-pose` `Python` `Google Colab` |
+| Embedded | **[embedded-systems](https://github.com/FelipeZina/embedded-systems)** | Hands-on labs and final project from the Embedded Systems course, built with Arduino and the PICGenios kit (PIC18F4520) | `Arduino` `PIC18F4520` `C` |
 
 <br>
-
-
-<!-- ============ FOOTER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:42b883,50:0f3d2e,100:0d1117" />

@@ -30,8 +30,7 @@ building across different fields: web applications, AI agents, computer vision a
 | **Computer vision** | <img src="https://skillicons.dev/icons?i=opencv,py&theme=dark" height="36" /> |
 | **Embedded systems** | <img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" height="36" /> |
 | **Data** | <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks&theme=dark" height="36" /> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="36" /> |
-| **Infra & tooling** | <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="36" /> |
-<br>
+| **Infra & tooling** | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux&theme=dark" height="36" /> |<br>
 
 <!-- ============ PROJECTS ============ -->
 ## Featured projects
@@ -41,5 +40,6 @@ building across different fields: web applications, AI agents, computer vision a
 | Web | <img src="https://github.com/Hubee-Unifesp.png" width="18" align="center" /> **[Hubee](https://github.com/Hubee-Unifesp)** | End-to-end event management platform for university student groups, from planning and vendor management to break-even analysis and ticket sales | `Next.js` `TypeScript` `NestJS` `PostgreSQL` |
 | Computer vision | **[alignment_recognition](https://github.com/FelipeZina/alignment_recognition)** | Keypoint detection model that checks, in real time, whether the arm-to-body angle of Mercedes-Benz automotive parts is within engineering tolerance | `YOLOv8-pose` `Python` `Google Colab` |
 | Embedded | **[embedded-systems](https://github.com/FelipeZina/embedded-systems)** | Hands-on labs and final project from the Embedded Systems course, built with Arduino and the PICGenios kit (PIC18F4520) | `Arduino` `PIC18F4520` `C` |
+| Automation | **[alerta-investimentos](https://github.com/FelipeZina/alerta-bolsa)** | Serverless monitor that tracks B3 stocks during trading hours and sends Telegram alerts when a price moves beyond a set threshold, including the P&L of your position based on average cost | `Python` `PostgreSQL` `GitHub Actions` `Telegram API` |
 
 <br>
